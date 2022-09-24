@@ -97,7 +97,7 @@ function gradeGenerator(score) {
  * ? return a string written like:
  * ? Francine got an A
  * ? David got a B
- * ? note: you have to use English grammar's correct indefinite article 
+ * ? note: you have to use English grammar's correct indefinite article
  * ? it's 'an A' (not a A) and 'an F' (not a F)
  */
 function getGrade(name, score) {
